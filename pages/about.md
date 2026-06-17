@@ -18,20 +18,25 @@ padding: 6em
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-## About CollectionBuilder CSV
+# Phillis Wheatley Peters Digital Edition
+This is a description of the Phillis Wheatley Peters Digital Edition.
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+## Editorial Team
+Here is list of the editorial team.
 
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
+- Editors: Students in ENGL 4300 (Fall 2026)
+    - Student A
+    - Student B
+    - Student C
+- Instructor: Dr. Lindsey Seatter
 
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
+## Dr. Seatter's Download
+This is a reflective paragraph covering the pedagogical purpose of the project.
 
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
+## Technical Credits: CollectionBuilder
+This digital collection is built with [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv), an open source framework for creating digital collection and exhibit websites that is developed by faculty librarians at the University of Idaho Library following the Lib-Static methodology.
 
 [CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
 
 {% include feature/image.html objectid="demo_001" width="75" %} 
 

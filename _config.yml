@@ -18,16 +18,16 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder CSV
+title: Phillis Wheatley Peters Digital Edition
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Digital Collection Magic with Static Web Technologies
-# description appears in meta tags and other locations
+tagline: Kwantlen Polytechnic University ENGL 4300 Collaborative Project
+# description appears in meta tabs and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-CSV is a template for creating digital collection exhibits using static web technology."
+description: "Phillis Wheatley Peters Digital Edition is an open access, digital, scholarly edition of the works of Phillis Wheatley Peters. This project was built collaboratively by the students and instructor of Kwantlen Polytechnic University's ENGL 4300 class (Fall 2026)."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: idaho; history; inland northwest
+keywords: women writers; Romanticism; poetry; digital humanities; digital edition; public humanities
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: ENGL 4300 Students
 
 ##########
 # COLLECTION SETTINGS
