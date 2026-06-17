@@ -8,11 +8,11 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: 
+url: https://lindseyseatter.github.io
 # path to location on the domain if necessary e.g. /digital/hjccc
-baseurl: 
+baseurl: /pwp-dhsi2026
 # location of code, the full url to your github repository
-source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
+source-code: https://github.com/lindseyseatter/pwp-dhsi2026
 
 ##########
 # SITE SETTINGS
@@ -23,11 +23,11 @@ title: Phillis Wheatley Peters Digital Edition
 tagline: Kwantlen Polytechnic University ENGL 4300 Collaborative Project
 # description appears in meta tabs and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "Phillis Wheatley Peters Digital Edition is an open access, digital, scholarly edition of the works of Phillis Wheatley Peters. This project was built collaboratively by the students and instructor of Kwantlen Polytechnic University's ENGL 4300 class (Fall 2026)."
+description: "The Phillis Wheatley Peters Digital Edition is an open access, digital, scholarly edition of the works of Phillis Wheatley Peters. This project was built collaboratively by the students and instructor of Kwantlen Polytechnic University's ENGL 4300 class (Fall 2026)."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: women writers; Romanticism; poetry; digital humanities; digital edition; public humanities
+keywords: phillis wheatley peters; women writers; Romanticism; poetry; digital humanities; digital edition; public humanities
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: ENGL 4300 Students
+author: KPU ENGL 4300 Students & Dr. Lindsey Seatter
 
 ##########
 # COLLECTION SETTINGS
@@ -50,17 +50,17 @@ metadata: pwp-dhsi2026_metadata
 #
 # Enter name and link for your organization (replacing the name and links below)
 # These values will be used in attribution and data 
-organization-name: "Center for Digital Inquiry and Learning (CDIL)"
-organization-link: https://cdil.lib.uidaho.edu/
+organization-name: "Kwantlen Polytechnic University, ENGL 4300 Collaborative Project"
+organization-link: https://www.kpu.ca/arts/english
 # Add logo image links if you would like them to appear in banner and footer. Delete or leave blank to remove logos.
-organization-logo-banner: https://www.lib.uidaho.edu/collectionbuilder/cdil-black.png
-organization-logo-nav: https://www.lib.uidaho.edu/collectionbuilder/cdil-white.png
+organization-logo-banner: https://upload.wikimedia.org/wikipedia/commons/6/67/Kwantlen_Polytechnic_University_%28logo%29.png
+organization-logo-nav: 
 
 ##########
 # ROBOTS EXCLUDE
 #
 # set noindex to true if you do NOT want Google to index your site
-# noindex: true 
+noindex: true 
 
 ##########
 # BUILD SETTINGS 

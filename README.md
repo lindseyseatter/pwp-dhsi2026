@@ -1,6 +1,6 @@
 # Phillis Wheatley Peters Digital Edition
 
-Phillis Wheatley Peters Digital Edition is an open access, digital, scholarly edition of the works of Phillis Wheatley Peters. This project was built collaboratively by the students and instructor of Kwantlen Polytechnic University's ENGL 4300 class (Fall 2026).
+The Phillis Wheatley Peters Digital Edition is an open access, digital, scholarly edition of the works of Phillis Wheatley Peters. This project was built collaboratively by the students and instructor of Kwantlen Polytechnic University's ENGL 4300 class (Fall 2026).
 
 # Editorial Team
 
