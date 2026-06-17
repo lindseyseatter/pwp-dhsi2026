@@ -33,5 +33,5 @@ Here is list of the editorial team.
 ### Dr. Seatter's Download
 This is a reflective paragraph covering the pedagogical purpose of the project.
 
-### Technical Credits: CollectionBuilder
-This digital collection is built with [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv), an open source framework for creating digital collection and exhibit websites that is developed by faculty librarians at the University of Idaho Library following the Lib-Static methodology.
+### Ready to Read?
+{% include feature/button.html text="Browse the Poems" link="https://lindseyseatter.github.io/pwp-dhsi2026/data.html" color="dark" %}
