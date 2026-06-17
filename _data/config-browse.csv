@@ -3,3 +3,4 @@ date,Date,,,Date Created
 description,,,true,
 subject,,true
 identifier,,,true,Identifier
+creator,,,true,Creator
