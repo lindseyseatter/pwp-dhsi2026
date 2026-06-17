@@ -1,5 +1,5 @@
 ---
-title: Data
+title: Collection
 layout: data
 permalink: /data.html
 ---
