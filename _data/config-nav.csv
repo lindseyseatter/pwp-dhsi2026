@@ -1,6 +1,8 @@
 display_name,stub,dropdown_parent
 Home,/,
-About,/about.html,
+About
+Edition,/about.html,About
+Phillis Wheatley Peters,/about-pwp.html,About
 Browse,/browse.html,
 Collection,/data.html,
 Subjects,/subjects.html,
