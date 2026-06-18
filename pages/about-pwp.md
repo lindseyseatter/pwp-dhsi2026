@@ -1,7 +1,7 @@
 ---
 title: About
 layout: about
-permalink: /pwp.html
+permalink: /about-pwp.html
 # include CollectionBuilder info at bottom
 credits: true
 # featured-image value can be one objectid for a photo object in this collection, a relative path to an image in this project, or a full url to any image. If left blank, no featured image will appear at top of About page.
@@ -18,20 +18,8 @@ padding: 0.2em
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-## Phillis Wheatley Peters Digital Edition
-This is a description of the Phillis Wheatley Peters Digital Edition.
-
-### Editorial Team
-Here is list of the editorial team.
-
-- Editors: Students in ENGL 4300 (Fall 2026)
-    - Student A
-    - Student B
-    - Student C
-- Instructor: Dr. Lindsey Seatter
-
-### Dr. Seatter's Download
-This is a reflective paragraph covering the pedagogical purpose of the project.
+## Phillis Wheatley Peters Biography
+This is a biography of the Phillis Wheatley Peters.
 
 ### Ready to Read?
 {% include feature/button.html text="Browse the Poems" link="https://lindseyseatter.github.io/pwp-dhsi2026/data.html" color="dark" %}
