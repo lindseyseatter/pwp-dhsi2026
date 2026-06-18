@@ -1,6 +1,5 @@
-field,display_name
-title,Title
-objectid,Object ID
+field,display_name,
 date,Date
-description,Description
+title,Title
+
 subject,Subjects
